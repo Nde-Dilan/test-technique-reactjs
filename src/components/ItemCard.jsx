@@ -1,4 +1,9 @@
 import React from "react";
+/*
+ *
+ *
+ ****************     Unused   *********************/
+
 
 const ItemCard = ({ article }) => {
   return (

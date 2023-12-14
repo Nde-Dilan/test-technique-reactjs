@@ -1,6 +1,6 @@
 import React from "react";
 
-const InfoCard = () => {
+const ResultCard = () => {
   return (
 
     <div>
@@ -15,4 +15,4 @@ const InfoCard = () => {
   );
 };
 
-export default InfoCard;
+export default ResultCard;
